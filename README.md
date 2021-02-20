@@ -1,2 +1,2 @@
-# textmining
- Text Mining
+# textmining(텍스트 마이닝)
+텍스트 분석에 필요한 다양한 기법들을 정리
